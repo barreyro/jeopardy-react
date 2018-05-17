@@ -4,7 +4,7 @@ import ClueSquare from './ClueSquare';
 const titleStyle = {
     fontSize: '48px',
     fontWeight: 180,
-    fontFamily: 'Arial Narrow'
+    fontFamily: 'Arial Narrow',
 }
 
 const ClueColumn = props => {
